@@ -4,6 +4,24 @@
 
 ![version](https://img.shields.io/badge/version-v1.0.0-f7b500) ![license](https://img.shields.io/badge/license-private-787b86) ![tech](https://img.shields.io/badge/tech-vanilla%20HTML%2FJS-26a69a)
 
+## 📸 화면
+
+상단은 오늘의 브리핑과 주요 지표. 데이터를 하나도 안 넣은 첫 실행 상태다.
+
+![대시보드](docs/dashboard.png)
+
+AI 분석가 6명은 각자 다른 페르소나로 같은 장을 읽는다.
+
+![AI 분석가](docs/ai-analysts.png)
+
+CNN Fear & Greed와 매일 체크리스트.
+
+![공포탐욕지수](docs/fear-greed.png)
+
+뉴스·경제 캘린더·지수 차트.
+
+![뉴스와 캘린더](docs/news-calendar.png)
+
 ## ✨ 무엇을 할 수 있나
 
 | 기능 | 설명 |
