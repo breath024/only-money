@@ -1,0 +1,28 @@
+{
+  "name": "Only Money — 해외 증시 대시보드",
+  "short_name": "Only Money",
+  "description": "해외 증시 올인원 대시보드. AI 분석, 호재/악재 뉴스, 포트폴리오 관리, 한국 양도세 자동 계산.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#0b0e14",
+  "background_color": "#0b0e14",
+  "lang": "ko",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ],
+  "shortcuts": [
+    {
+      "name": "AI 분석 실행",
+      "url": "./#sec-ai",
+      "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+    },
+    {
+      "name": "포트폴리오",
+      "url": "./#sec-portfolio",
+      "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+    }
+  ]
+}
